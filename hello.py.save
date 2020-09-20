@@ -1,0 +1,12 @@
+print("hello, world")
+x
+^x
+^X
+exit
+^x exit
+X
+-exit
+exit
+help
+-h
+
